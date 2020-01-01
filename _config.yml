@@ -1,27 +1,21 @@
 # Site/SEO settings
-email: okay@samesies.io
+email: delescluse.l@gmail.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-name: Thomas Vaeth
-title: The Barber Theme
+name: Lea Delescluse
+title: Atelier Lea Delescluse
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://barber.samesies.io
-twitter_username: thomasvaeth
+  L'atelier Lea Delescluse est le lieu d'exposition virtuel pour mes travaux artistiques et decoratifs 
+url: http://Lea-delescluse.github.io/atelier
+# twitter_username: thomasvaeth
 default_img: /assets/images/seo.jpg
 social:
-  - name: twitter
-    url: https://twitter.com/thomasvaeth
   - name: instagram
     url: https://www.instagram.com/thomas.vaeth/
   - name: linkedin
     url: https://www.linkedin.com/in/thomasvaeth/
-  - name: github
-    url: https://github.com/samesies
-  - name: codepen
-    url: https://codepen.io/thomasvaeth/
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
@@ -36,9 +30,9 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Thomas Vaeth
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
+  - name: Lea Delescluse
+    bio: Lea Delescluse est une artiste en peinture decorative. Diplomée des beaux-arts de Florence, elle travail pour le théatre et le cinéma avant de se spécialiser en trompe l'oeil et peinture décorative.
+    url: http://Lea-delescluse.github.io/atelier
 
 # Pagination settings
 pagination:
