@@ -2,12 +2,12 @@
 email: delescluse.l@gmail.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
-google_analytics: 
+google_analytics:
 
 name: Lea Delescluse
 title: Atelier Lea Delescluse
 description: >
-  L'atelier Lea Delescluse est le lieu d'exposition virtuel pour mes travaux artistiques et decoratifs 
+  L'atelier Lea Delescluse est le lieu d'exposition virtuel pour mes travaux artistiques et decoratifs
 url: http://Lea-delescluse.github.io/atelier
 # twitter_username: thomasvaeth
 default_img: /assets/images/seo.jpg
@@ -18,7 +18,7 @@ social:
     url: https://www.linkedin.com/in/thomasvaeth/
 
 # Contact settings
-contact_img: /assets/images/placeholder-28.jpg
+contact_img: /assets/images/mosh.jpg
 formcarry: https://formcarry.com/s/HkIo0nMb7
 
 # Disqus settings
@@ -51,7 +51,7 @@ autopages:
   collections:
     enabled: false
   tags:
-    layouts: 
+    layouts:
       - 'tag.html'
     title: 'The Barber Theme'
     permalink: '/tag/:tag'
