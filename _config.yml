@@ -2,13 +2,13 @@
 email: delescluse.l@gmail.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
-google_analytics:
+# google_analytics:
 
 name: Lea Delescluse
 title: Atelier Lea Delescluse
 description: >
   L'atelier Lea Delescluse est le lieu d'exposition virtuel pour mes travaux artistiques et decoratifs
-url: http://Lea-delescluse.github.io/atelier
+url: https://leatelier.netlify.com
 # twitter_username: thomasvaeth
 default_img: /assets/images/seo.jpg
 social:
@@ -32,7 +32,7 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 author:
   - name: Lea Delescluse
     bio: Lea Delescluse est une artiste en peinture decorative. Diplomée des beaux-arts de Florence, elle travail pour le théatre et le cinéma avant de se spécialiser en trompe l'oeil et peinture décorative.
-    url: http://leatelier.netlify.com
+    url: https://leatelier.netlify.com
 
 # Pagination settings
 pagination:
