@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Vietnam"
-date: 2020-01-01
-description:
+title: "Nantes"
+date: 2019-12-01
+description: Peinture murale
 image: /assets/images/mosh.jpg
 author: Lea Delescluse
 tags:
   - Voyage
   - Vietnam
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Commande pivée chez un particulier. Création. Vision "apocalyptique" de la ville de Nantes, où les Machines ont survécues. Inspiration: photographies de Chris Morin-Eitner... Cadre réalisé en trompe l'oeil. 
