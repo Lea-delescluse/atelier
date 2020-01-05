@@ -3,12 +3,10 @@ layout: post
 title: "Nantes"
 date: 2019-12-01
 description: Peinture murale
-image: /assets/images/mosh.jpg
+image: /assets/images/nantes/nantes1.jpg
 author: Lea Delescluse
 tags:
-  - peinture murale
-  - nantes
-  - chris morin eitner
-  - les Machines de Nantes
+  - Peinture murale
+  - Nantes
 ---
 Commande pivée chez un particulier. Création. Vision "apocalyptique" de la ville de Nantes, où les Machines ont survécues. Inspiration: photographies de Chris Morin-Eitner... Cadre réalisé en trompe l'oeil.

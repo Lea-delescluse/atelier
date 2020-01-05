@@ -10,7 +10,7 @@ description: >
   L'atelier Lea Delescluse est le lieu d'exposition virtuel pour mes travaux artistiques et decoratifs
 url: https://leatelier.netlify.com
 # twitter_username: thomasvaeth
-default_img: /assets/images/seo.jpg
+default_img: /assets/images/mosh.jpg
 social:
   - name: instagram
     url: https://www.instagram.com/thomas.vaeth/
@@ -53,7 +53,7 @@ autopages:
   tags:
     layouts:
       - 'tag.html'
-    title: 'The Barber Theme'
+    title: 'Atelier Léa Delescluse'
     permalink: '/tag/:tag'
     slugify:
       mode: raw
