@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Vietnam"
+date: 2018-02-01
+description: de la Série "Vietnam"
+image: /assets/images/vietnam/dessin3.jpg
+author: Lea Delescluse
+tags:
+  - Vietnam
+  - Dessin
+---
+Série de dessins réalisés lors de mon séjour au Vietnam de 2017 à 2019.
+Peinture acrylique diluée sur papier Zo (Vietnam), stylo noir, crayons aquarelles.
+
+![Placeholder](/assets/images/vietnam/dessin2.jpg "DESSIN 2")
+
+Hanoi (VN), quartier Tay Ho, à l'arrière du marché aux fleurs où j'ai résidée en famille pendant 2 ans.
+
+![Placeholder](/assets/images/vietnam/dessin1.jpg "DESSIN 1")
+<!--
+POUR LE MEME RESULTAT:
+<img src="/assets/images/vietnam/dessin1.jpg" alt="Grid Image" data-action="zoom" class="" style="">
+-->
+
+" Chez Loan et Toan " représente la vue depuis la fenêtre de mon atelier à Hanoi. J'en changerai 3 fois en 2 ans.
+
+![Placeholder](/assets/images/vietnam/dessin5.jpg#half "DESSIN 1")
+
+Travaux réalisées à partir de photographies prises au fil de mes périgrinations hanoiennes.
