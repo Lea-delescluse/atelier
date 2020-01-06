@@ -13,6 +13,8 @@ Pour la boutique Kilomet 109 tenue par la fashion designer vietnamienne Thao Vu,
 
 ![Placeholder](/assets/images/kilomet109/kilomet2.jpg)
 
-![Placeholder](/assets/images/kilomet109/kilomet3.jpg)
-
 ![Placeholder](/assets/images/kilomet109/kilomet4.jpg)
+
+chantier en cours d'intervention
+
+![Placeholder](/assets/images/kilomet109/kilomet3.jpg)
