@@ -3,16 +3,19 @@ layout: post
 title: "Rennes"
 date: 2018-01-01
 description: Decor
-image: /assets/images/la-peau-de-vache/ciel1.jpg
+image: /assets/images/rennes/ciel1.jpg
 author: Lea Delescluse
 tags:
   - Decor
   - Rennes
+  - Elodie Lechevallier
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Faux ciel d'orage réalisé aux Aviateurs à Rennes dans un puits de lumière au coeur du restaurant. Création Elodie Lechevallier. Réalisation faux ciel: Léa Delescluse
 
-![Placeholder](/assets/images/la-peau-de-vache/facade-resto.jpg)
+![Placeholder](/assets/images/rennes/ciel2.jpg)
 
-![Placeholder](/assets/images/la-peau-de-vache/ciel2.jpg)
+![Placeholder](/assets/images/rennes/ciel3.jpg)
 
-![Placeholder](/assets/images/la-peau-de-vache/ciel3.jpg)
+![Placeholder](/assets/images/rennes/rennes4.jpg)
+
+lien vers site Elodie Lechevallier
