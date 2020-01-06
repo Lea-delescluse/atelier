@@ -9,7 +9,8 @@ tags:
   - Vietnam
   - Decor
 ---
-
+Création et réalisation en compagnie de Marianne Chauveau-Smolska.
+Commande pour l'Epicerie vietnamienne de produits d'importation internationale, L's Place, 195 Nghi Tam, Hanoi, Vietnam.
 
 ![Placeholder](/assets/images/hanoi-Lsplace/lsplace2.jpg)
 
