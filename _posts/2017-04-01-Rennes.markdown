@@ -1,11 +1,18 @@
 ---
 layout: post
-title: "MOSH"
+title: "Rennes"
 date: 2018-01-01
-description: Photo
-image: /assets/images/mosh.jpg
+description: Decor
+image: /assets/images/la-peau-de-vache/ciel1.jpg
 author: Lea Delescluse
 tags:
-  - Photo
+  - Decor
+  - Rennes
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+![Placeholder](/assets/images/la-peau-de-vache/facade-resto.jpg)
+
+![Placeholder](/assets/images/la-peau-de-vache/ciel2.jpg)
+
+![Placeholder](/assets/images/la-peau-de-vache/ciel3.jpg)
