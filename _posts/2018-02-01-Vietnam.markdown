@@ -16,7 +16,7 @@ Peinture acrylique diluée sur papier Zo (Vietnam), stylo noir, crayons aquarell
 
 Hanoi (VN), quartier Tay Ho, à l'arrière du marché aux fleurs où j'ai résidée en famille pendant 2 ans.
 
-![Placeholder](/assets/images/vietnam/dessin1.jpg "DESSIN 1")
+![Placeholder](/assets/images/vietnam/dessin1.jpg)
 <!--
 POUR LE MEME RESULTAT:
 <img src="/assets/images/vietnam/dessin1.jpg" alt="Grid Image" data-action="zoom" class="" style="">
