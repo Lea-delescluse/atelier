@@ -3,10 +3,11 @@ layout: post
 title: "Nantes"
 date: 2019-12-01
 description: Peinture murale
-image: /assets/images/nantes/nantes1.jpg
+image: /assets/images/nantes/decor2.jpg
 author: Lea Delescluse
 tags:
   - Peinture murale
   - Nantes
 ---
-Commande pivée chez un particulier. Création. Vision "apocalyptique" de la ville de Nantes, où les Machines ont survécues. Inspiration: photographies de Chris Morin-Eitner... Cadre réalisé en trompe l'oeil.
+Commande pivée chez un particulier. Création. Vision futuriste de la ville de Nantes, où la végétation à repris du galon et où les Machines ont survécues. Inspiration: photographies de Chris Morin-Eitner... Cadre réalisé en trompe l'oeil.
+
