@@ -3,7 +3,7 @@ layout: post
 title: "Campioni"
 date: 2018-06-01
 description: Exposition
-image: /assets/images/vietnam/campioni/Flyer.jpg
+image: /assets/images/campioni/Flyer.jpg
 author: Lea Delescluse
 tags:
   - Vietnam
@@ -12,15 +12,15 @@ tags:
 ---
 Série de dessins réalisés en collaboration avec Christiane Campioni à la galerie "by Campioni" qui a donné suite à une exposition au sein de la galerie.
 
-![Placeholder](/assets/images/vietnam/campioni/campioni1)
+![Placeholder](/assets/images/campioni/campioni1.jpg)
 
-![Placeholder](/assets/images/vietnam/campioni/campioni2)
+![Placeholder](/assets/images/campioni/campioni2.jpg)
 
-![Placeholder](/assets/images/vietnam/campioni/campioni3)
+![Placeholder](/assets/images/campioni/campioni3.jpg)
 
-![Placeholder](/assets/images/vietnam/campioni/campioni4)
+![Placeholder](/assets/images/campioni/campioni4.jpg)
 
-![Placeholder](/assets/images/vietnam/campioni/campioni5)
+![Placeholder](/assets/images/campioni/campioni5.jpg)
 
 <hr/>
 https://www.facebook.com/By.Campioni/
