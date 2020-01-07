@@ -7,9 +7,10 @@ image: /assets/images/kilomet109/kilomet1.jpg
 author: Lea Delescluse
 tags:
   - Vietnam
+  - London
 ---
-Réalisation d'un effet fausse rouille 
-Pour la boutique Kilomet 109 tenue par la fashion designer vietnamienne Thao Vu, Hanoi
+Réalisation d'un effet fausse rouille sur une partie de l'arche.
+Dans la boutique "Kilomet 109" tenue par la fashion designer vietnamienne Thao Vu à Hanoi.
 
 ![Placeholder](/assets/images/kilomet109/kilomet2.jpg)
 
