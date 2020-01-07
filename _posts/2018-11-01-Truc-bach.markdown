@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Ma Xo Café
+title: Truch Bach
 date: 2018-11-01
 description: Patine
-image: /assets/images/maxo/maxo1.jpg
+image: /assets/images/maxo/maxo2.jpg
 author: Lea Delescluse
 tags:
   - Vietnam
@@ -12,9 +12,9 @@ tags:
 ---
 Réalisation d'une patine au Ma Xo, très joli café situé à Truc Bach, Hanoi, (VN).
 
-![Placeholder](/assets/images/maxo/maxo2.jpg)
-
 ![Placeholder](/assets/images/maxo/maxo5.jpg)
+
+![Placeholder](/assets/images/maxo/maxo1.jpg)
 
 ![Placeholder](/assets/images/maxo/maxo3.jpg)
 
