@@ -3,13 +3,22 @@ layout: post
 title: "London Biennale Design"
 date: 2018-09-01
 description: Design peint
-image: /assets/images/vietnam/dessin3.jpg
+image: /assets/images/London-Design-Biennale/bassin1.jpg
 author: Lea Delescluse
 tags:
   - Vietnam
-  - Dessin
+  - Hanoi
+  - Kilomet109
 ---
-Série de dessins réalisés lors de mon séjour au Vietnam de 2017 à 2019.
-Peinture acrylique diluée sur papier Zo (Vietnam), stylo noir, crayons aquarelles.
+Patine effet fausse pierre sur métal, évoquant les bassins de teinture indigo traditionnels vietnamiens.
+Installation créée par l'incroyable Thao Vu (fashion designer, Kilomet 109, VN) et Claire Driscoll (Galerie "Work Room Four", Hanoi, VN).
 
-![Placeholder](/assets/images/vietnam/dessin2.jpg "DESSIN 2")
+![Placeholder](/assets/images/London-Design-Biennale/bassin2.jpg)
+
+![Placeholder](/assets/images/London-Design-Biennale/process-fin.jpg)
+
+![Placeholder](/assets/images/London-Design-Biennale/process2.jpg)
+
+![Placeholder](/assets/images/London-Design-Biennale/process1.jpg)
+
+![Placeholder](/assets/images/London-Design-Biennale/process0.jpg)
