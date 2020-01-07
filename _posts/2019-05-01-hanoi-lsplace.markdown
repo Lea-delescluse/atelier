@@ -9,8 +9,8 @@ tags:
   - Vietnam
   - Decor
 ---
-Création et réalisation en très bonne compagnie de Marianne Chauveau-Smolska, artiste peintre hanoienne.
-Commande pour l'Epicerie vietnamienne de produits d'importation internationale, L's Place, Hanoi (VN).
+Création et réalisation en la très bonne compagnie de Marianne Chauveau-Smolska, artiste peintre et graphiste hanoienne .
+Commande de 2 décors peints pour l'Epicerie vietnamienne, L's Place, de produits d'importation internationale, Hanoi (VN).
 
 ![Placeholder](/assets/images/hanoi-Lsplace/lsplace1.jpg)
 
