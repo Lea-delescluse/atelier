@@ -3,7 +3,7 @@ layout: post
 title: "Hanoi"
 date: 2018-02-01
 description: Décor mural
-image: /assets/images/hanoi-Lsplace/lsplace2.jpg
+image: /assets/images/hanoi-Lsplace/lsplace0.jpg
 author: Lea Delescluse
 tags:
   - Vietnam
