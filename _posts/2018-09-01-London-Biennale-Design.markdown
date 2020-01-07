@@ -15,11 +15,19 @@ Installation créée par la fabuleuse Thao Vu (fashion designer, Kilomet 109, VN
 
 ![Placeholder](/assets/images/London-Design-Biennale/bassin2.jpg)
 
+Lors de la London Design Biennale 2018. Sommerset House, Londres, Royaume-Uni.
+
 ![Placeholder](/assets/images/London-Design-Biennale/process0.jpg)
+
+Structure avant intervention picturale
 
 ![Placeholder](/assets/images/London-Design-Biennale/process1.jpg)
 
+Transport
+
 ![Placeholder](/assets/images/London-Design-Biennale/process2.jpg)
+
+Benoit Delescluse est venu me prêter main forte, très bien!
 
 ![Placeholder](/assets/images/London-Design-Biennale/process-fin.jpg)
 
