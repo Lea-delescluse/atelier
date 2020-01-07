@@ -3,7 +3,7 @@ layout: post
 title: "Rennes"
 date: 2018-01-01
 description: Decor
-image: /assets/images/rennes/ciel3.jpeg
+image: /assets/images/rennes/ciel3.jpg
 author: Lea Delescluse
 tags:
   - Decor
@@ -12,8 +12,9 @@ tags:
 ---
 Faux ciel d'orage réalisé aux Aviateurs à Rennes dans un puits de lumière au coeur du restaurant. Création Elodie Lechevallier. Réalisation faux ciel: Léa Delescluse
 
-![Placeholder](/assets/images/rennes/ciel1.jpg)
+![Placeholder](/assets/images/rennes/ciel1.jpeg)
 
 ![Placeholder](/assets/images/rennes/ciel4.jpg)
 
+<hr/>
 lien vers site Elodie Lechevallier
