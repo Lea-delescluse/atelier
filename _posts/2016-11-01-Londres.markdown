@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Londres"
+date: 2016-11-01
+description: Chantier Atelier Lepage
+image: /assets/images/vietnam/dessin3.jpg
+author: Lea Delescluse
+tags:
+  - Vietnam
+  - Dessin
+---
+Chantier Atelier Lepage, Londres.
+Expérience très enrichissante au sein de l'équipe de l' Atelier Lepage, que je remercie chaleureusement pour sa confiance.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JQgyjwYudi8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
