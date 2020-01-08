@@ -26,6 +26,6 @@ Transport
 
 ![Placeholder](/assets/images/London-Design-Biennale/process2.jpg)
 
-Benoit Delescluse est venu me prêter main forte à la réalisation de la patine.
+<a href="https://www.delescluse.com" target="_blank">Benoit Delescluse</a> est venu me prêter main forte à la réalisation de la patine.
 
 ![Placeholder](/assets/images/London-Design-Biennale/process-fin.jpg)
