@@ -12,12 +12,12 @@ tags:
   - Thao
 ---
 Collaborations au sein des différents chantiers effectués ses dernières années:
-Marianne Chauveau-Smolska - artiste peintre - Hanoi, Vietnam
-Benoit Delescluse - artiste peintre - Vietnam/France
+</h> <a href="http://peinture.smolska.fr" target="_blank">Marianne Chauveau-Smolska</a> - artiste peintre - Hanoi, Vietnam</h>
+</h>Benoit Delescluse - artiste peintre - Vietnam/France
 Thao Vu - fashion designer - Hanoi, Vietnam
 Work Room Four - galerie d'art - Hanoi, Vietnam
 Christiane Campioni - artiste et bijoutière - Hanoi, Vietnam
 Elodie Lechevallier - peintre en décors - Nantes, France
 Ludovic Lepage - peintre en décors - Rouen, France
 
-<a href="https://peinture.smolska.fr" target="_blank">Marianne Chauveau-Smolska</a>
+
