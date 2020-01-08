@@ -37,6 +37,10 @@
     color: $color-black;
   }
 
+  &:hover {
+    color: rgba($color-black,0.5);
+  }
+
   &__list {
     @extend %no-list-style;
 
