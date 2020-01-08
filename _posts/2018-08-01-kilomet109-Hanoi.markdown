@@ -10,7 +10,7 @@ tags:
   - Patine
 ---
 Réalisation d'un effet fausse rouille sur une partie de l'arche.
-Dans la boutique "Kilomet 109" tenue par la fashion designer vietnamienne Thao Vu à Hanoi, Vietnam.
+Dans la boutique <a href="https://kilomet109.com" target="_blank">Kilomet 109</a> tenue par la fashion designer vietnamienne Thao Vu à Hanoi, Vietnam.
 
 ![Placeholder](/assets/images/kilomet109/kilomet2.jpg)
 
