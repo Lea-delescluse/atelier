@@ -11,7 +11,7 @@ tags:
   - Dessin
 ---
 Série de dessins portant sur des cartes de la ville d'Hanoi.
-Réalisés en collaboration avec Christiane Campioni à la galerie "by Campioni" qui a donné suite à une exposition au sein de la galerie.
+Réalisés en collaboration avec Christiane Campioni à la galerie "<a href="http://fr-fr.facebook.com/By.Campioni/" target="_blank">by Campioni</a>" qui a donné suite à une exposition au sein de la galerie.
 
 ![Placeholder](/assets/images/campioni/campioni4.jpg)
 
