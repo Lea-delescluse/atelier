@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Paysage"
+date: 2018-02-01
+description: peinture à l'huile
+image: /assets/images/paysage.jpg
+author: Lea Delescluse
+tags:
+  - Vietnam
+  - Dessin
+---
+Particulier vietnamien. Commande d'une peinture à l'huile : paysage français.
+Réalisé au Vietnam.
+
+![Placeholder](/assets/images/paysage.jpg)
