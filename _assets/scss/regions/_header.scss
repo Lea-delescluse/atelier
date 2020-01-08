@@ -35,7 +35,7 @@
     @extend %font-header;
 
     font-size: $font-xsmall;
-    color: $color-black;
+    color: rgba($color-black,0.5);
   }
 
   &__title:hover {
