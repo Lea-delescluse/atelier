@@ -11,9 +11,9 @@ tags:
   - Patine
   - Lechevallier
 ---
-Aide à la réalisation des décors de la brasserie "La Peau de Vache" 
-(Fausse rouille sur plafonds en tôle ondulée, arbre/lampe, patines murs briques)
-Décors imaginés par l'artiste et peintre en décors Elodie Lechevallier, établie à Nantes.
+Aide à la réalisation des décors de la brasserie "La Peau de Vache".
+(Fausse rouille sur plafonds en tôle ondulée, arbre/lampe, patines murs briques).
+Décors imaginés par l'artiste et peintre en décors <a href="http://www.facebook.com/profile.php?id=100007236108486" target="_blank">Elodie Lechevallier</a> - Nantes.
 
 ![Placeholder](/assets/images/orvault/peau-de-vache2.jpg)
 
