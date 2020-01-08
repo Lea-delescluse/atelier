@@ -10,7 +10,7 @@ description: >
   L'atelier Lea Delescluse est le lieu d'exposition virtuel pour mes travaux artistiques et decoratifs
 url: https://leatelier.netlify.com
 # twitter_username: thomasvaeth
-default_img: /assets/images/mosh.jpg
+default_img: /assets/images/contact.jpg
 social:
   - name: instagram
     url: https://www.instagram.com/leadelec/
@@ -18,7 +18,7 @@ social:
     url: https://www.linkedin.com/in/atelier-lea-delescluse-34000/
 
 # Contact settings
-contact_img: /assets/images/mosh.jpg
+contact_img: /assets/images/contact.jpg
 formcarry: https://formcarry.com/s/HkIo0nMb7
 
 # Disqus settings
@@ -31,7 +31,7 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 # Author settings
 author:
   - name: Lea Delescluse
-    bio: Lea Delescluse est une artiste en peinture decorative. Diplomée des beaux-arts de Florence, elle travaille pour le théatre et le cinéma avant de se spécialiser en trompe l'oeil et peinture décorative.
+    bio: Lea Delescluse est artiste et peintre en décors. Diplomée des beaux-arts, elle a fait une partie de ses études à Florence, Italie afin de s'initier à la fresque. Elle travaille ensuite pour le théatre et le cinéma à Paris avant de se spécialiser en peinture décorative et trompe l'oeil.
     url: https://leatelier.netlify.com
 
 # Pagination settings
