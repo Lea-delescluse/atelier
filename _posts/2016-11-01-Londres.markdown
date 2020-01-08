@@ -14,4 +14,4 @@ Expérience très enrichissante au sein de l'équipe de l' Atelier Lepage, que j
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JQgyjwYudi8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![Placeholder](/assets/images/paysage.jpg)
+![Placeholder](/assets/images/lepage-equipe.jpg)
