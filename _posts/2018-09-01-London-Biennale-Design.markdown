@@ -7,7 +7,6 @@ image: /assets/images/London-Design-Biennale/bassin1.jpg
 author: Lea Delescluse
 tags:
   - Vietnam
-  - Decor
   - Patine
 ---
 Réalisation d'une patine effet fausse pierre sur métal, évoquant les bassins traditionnels vietnamiens de teinture indigo.
