@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Restaurant"
+title: "Nantes"
 date: 2018-02-01
 description: Décor brasserie "La Peau de Vache"
 image: /assets/images/orvault/peau-de-vache1.jpg
