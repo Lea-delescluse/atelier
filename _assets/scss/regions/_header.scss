@@ -33,6 +33,7 @@
   &__title {
     @extend %font-header;
 
+    transition: color .5s ease-in-out;
     font-size: $font-xsmall;
     color: $color-black;
   }
