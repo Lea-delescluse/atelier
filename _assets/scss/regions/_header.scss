@@ -5,7 +5,6 @@
   @extend %letter-spacing;
   @extend %box-shadow;
 
-  transition: color .5s ease-in-out;
   position: fixed;
   top: 0;
   left: 0;
@@ -34,13 +33,14 @@
   &__title {
     @extend %font-header;
 
+    transition: color .5s ease-in-out;
     font-size: $font-xsmall;
     color: rgba($color-black,0.5);
-    transform:scale(1.025,1.025);
   }
 
   &__title:hover {
     color: rgba($color-black,0.5);
+    transform:scale(1.025,1.025);
   }
 
   &__list {
