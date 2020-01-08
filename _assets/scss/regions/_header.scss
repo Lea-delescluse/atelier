@@ -33,7 +33,7 @@
   &__title {
     @extend %font-header;
 
-    transition: color .5s ease-in-out;
+    transition: opacity,transform .5s ease-in-out;
     font-size: $font-xsmall;
     color: $color-black;
     
@@ -61,6 +61,7 @@
       }
 
       a {
+        transition: opacity .5s ease-in-out;
         color: $color-black;
       }
       
