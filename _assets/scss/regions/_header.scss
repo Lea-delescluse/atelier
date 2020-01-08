@@ -5,6 +5,8 @@
   @extend %letter-spacing;
   @extend %box-shadow;
 
+  transition: opacity,transform .5s ease-in-out;
+  
   position: fixed;
   top: 0;
   left: 0;
@@ -33,7 +35,6 @@
   &__title {
     @extend %font-header;
 
-    transition: opacity,transform .5s ease-in-out;
     font-size: $font-xsmall;
     color: $color-black;
     
