@@ -10,8 +10,8 @@ tags:
   - Decor
   - Patine
 ---
-Réalisation d'une patine effet fausse pierre sur métal, évoquant les bassins de teinture indigo traditionnels vietnamiens.
-Installation créée par la fabuleuse Thao Vu (fashion designer, Kilomet 109, VN) et sa complice Claire Driscoll (Galerie "Work Room Four", Hanoi, VN). Réalisé au Vietnam et exposé lors de la London Design Biennale 2018 à Londres.
+Réalisation d'une patine effet fausse pierre sur métal, évoquant les bassins traditionnels vietnamiens de teinture indigo.
+Installation créée par Thao Vu (fashion designer, Kilomet 109, VN) et Claire Driscoll (Galerie "Work Room Four", Hanoi, VN). Réalisé au Vietnam et exposé lors de la London Design Biennale 2018 à Londres.
 
 ![Placeholder](/assets/images/London-Design-Biennale/bassin2.jpg)
 
