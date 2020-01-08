@@ -34,6 +34,7 @@
 
   &__title {
     @extend %font-header;
+    @extend %transition;
 
     font-size: $font-xsmall;
     color: $color-black;
