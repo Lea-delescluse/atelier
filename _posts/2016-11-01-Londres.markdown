@@ -9,7 +9,7 @@ tags:
   - Vietnam
   - Dessin
 ---
-Chantier Atelier Lepage,quartier Belgravia à Londres, Angleterre.
+Chantier <a href="http://www.ludoviclepage.fr" target="_blank">Atelier Lepage</a>,quartier Belgravia à Londres, Angleterre.
 Expérience très enrichissante au sein de l'équipe de l' Atelier Lepage, que je remercie chaleureusement pour sa confiance.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JQgyjwYudi8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
