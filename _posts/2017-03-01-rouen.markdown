@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Rouen"
+date: 2017-05-01
+description: singeries
+image: /assets/images/singeries/singeries1.jpg
+author: Lea Delescluse
+tags:
+  - Rouen
+  - Singerie
+  - Decor mural
+---
+Création et réalisation inspirée des Singeries du château de Chantilly et des Amandiers de Van Gogh.
+Commande particulière.
+
+![Placeholder](/assets/images/singeries/singeries2.jpg)
