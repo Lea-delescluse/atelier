@@ -35,12 +35,12 @@
 
     transition: color .5s ease-in-out;
     font-size: $font-xsmall;
-    color: rgba($color-black,0.5);
-  }
-
-  &:hover {
-    color: rgba($color-black,0.5);
-    transform:scale(1.025,1.025);
+    color: $color-black;
+    
+    &:hover {
+      opacity: 0.5;
+      transform:scale(1.025,1.025);
+    }
   }
 
   &__list {
