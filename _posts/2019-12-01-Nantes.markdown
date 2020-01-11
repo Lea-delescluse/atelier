@@ -2,14 +2,14 @@
 layout: post
 title: "Nantes"
 date: 2019-12-01
-description: Peinture murale
+description: Décor
 image: /assets/images/nantes/profil2.jpg
 author: Lea Delescluse
 tags:
-  - Peinture murale
+  - Decor
   - Nantes
 ---
-Création et réalisation. Commande pivée chez un particulier. Vision futuriste de la ville de Nantes, où la végétation a pris possession des lieux et où les Machines ont survécues.
+Création et réalisation. Particulier commande. Vision futuriste de la ville de Nantes, où la végétation a pris possession des lieux et où les Machines ont survécues.
 Cadre réalisé en trompe l'oeil.
 
 ![Placeholder](/assets/images/nantes/decor2.jpg)
