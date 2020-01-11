@@ -5,6 +5,8 @@
   @extend %letter-spacing;
   @extend %box-shadow;
 
+  transition: opacity,transform .5s ease-in-out;
+  
   position: fixed;
   top: 0;
   left: 0;
@@ -20,7 +22,7 @@
     left: 1em;
   }
 
-  background-color: $color-white;
+  background-color: $color-lightgrey;
   border-bottom: $border;
 
   @media (min-width: $mq-small) {
@@ -32,13 +34,15 @@
 
   &__title {
     @extend %font-header;
+    @extend %transition;
 
     font-size: $font-xsmall;
     color: $color-black;
-  }
-
-  &:hover {
-    color: rgba($color-black,0.5);
+    
+    &:hover {
+      opacity: 0.5;
+      transform: scale(1.025,1.025);
+    }
   }
 
   &__list {
@@ -59,7 +63,12 @@
       }
 
       a {
+        transition: opacity .5s ease-in-out;
         color: $color-black;
+      }
+      
+      a:hover {
+        opacity: 0.5;
       }
     }
   }
