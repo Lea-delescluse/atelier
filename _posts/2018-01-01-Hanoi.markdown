@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hanoi"
+title: "Décor mural"
 date: 2018-01-01
 description: peinture murale
 image: /assets/images/vietnam/mur0.jpg
@@ -9,7 +9,7 @@ tags:
   - Vietnam
   - Decor
 ---
-Décor mural. Création et réalisation.
+3mx4m - Hanoi, Vietnam. Création et réalisation
 Commande chez un particulier.
 Paysage de Tam Coc, également nommé "Baie d'Halong terrestre", Vietnam.
 
