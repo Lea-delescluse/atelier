@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Londres"
+title: "Chantier Londres"
 date: 2016-11-01
 description: Chantier Atelier Lepage
 image: /assets/images/londres1.jpg
