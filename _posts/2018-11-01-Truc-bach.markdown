@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Truch Bach
+title: Patine
 date: 2018-11-01
 description: Patine
 image: /assets/images/maxo/maxo2.jpg
