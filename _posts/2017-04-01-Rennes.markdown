@@ -6,8 +6,8 @@ description: Decor
 image: /assets/images/rennes/ciel3.jpg
 author: Lea Delescluse
 tags:
+  - Décor mural
   - Decor
-  - Lechevallier
 ---
 Réalisé aux Aviateurs à Rennes dans un puits de lumière au coeur du restaurant. Création des décors du restaurant : <a href="http://www.facebook.com/profile.php?id=100007236108486" target="_blank">Elodie Lechevallier</a>. Réalisation faux ciel: Léa Delescluse
 
