@@ -1,17 +1,18 @@
 ---
 layout: post
-title: "Vietnam"
-date: 2018-02-01
-description: de la Série "Vietnam"
+title: "En Galerie"
+date: 2021-04-01
+description: Dessins/Peintures
 image: /assets/images/vietnam/dessin3.jpg
 author: Lea Delescluse
 tags:
   - Vietnam
   - Dessin
+  - Art
 ---
-Série de dessins réalisés lors de mon séjour au Vietnam de 2017 à 2019.
-Peinture acrylique diluée sur papier Zo (Vietnam), stylo noir, crayons aquarelles.
-Travaux exposés dans 2 galeries à Hanoi : "Work Room Four" et "Manzi art"
+Travail artistique personnel. Série de dessins réalisés en partie lors de mon séjour au Vietnam de 2017 à 2019 et jusqu'à ce jour.
+Technique mixte, peinture sur papier Zo (Vietnam), stylo noir, crayons aquarelles. 
+Travaux exposés dans 2 galeries à Hanoi : "Work Room Four" et "Manzi art" et à la "Galerie Courant d'Art" à Calais, France.
 
 ![Placeholder](/assets/images/vietnam/dessin2.jpg)
 Hanoi (VN), quartier Tay Ho, à l'arrière du marché aux fleurs où j'ai résidée pendant 2 ans.
