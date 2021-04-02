@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rouen"
+title: "Singeries"
 date: 2017-05-01
 description: singeries
 image: /assets/images/singeries/singeries1.jpg
