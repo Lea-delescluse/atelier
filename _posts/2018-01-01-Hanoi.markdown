@@ -7,7 +7,7 @@ image: /assets/images/vietnam/mur0.jpg
 author: Lea Delescluse
 tags:
   - Vietnam
-  - Decor
+  - Décor mural
 ---
 3mx4m - Hanoi, Vietnam. Création et réalisation
 Commande chez un particulier.
