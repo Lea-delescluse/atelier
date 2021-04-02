@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nantes"
+title: "Décor Mural"
 date: 2019-12-01
 description: Décor
 image: /assets/images/nantes/profil2.jpg
