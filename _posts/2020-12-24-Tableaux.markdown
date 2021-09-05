@@ -37,22 +37,22 @@ Hanoi Café - 59,5 x 75 cm
 ![Placeholder](/assets/images/courantdart/Evasion.jpg)
 Evasion - 25 x 42 cm
 
-![Placeholder]("/assets/images/courantdart/dragon.jpg")
+![Placeholder](/assets/images/courantdart/dragon.jpg)
 Le Dragon de Calais - 61 x 71 cm
 
-![Placeholder]("/assets/images/courantdart/ngo-9-Dang-thai-mai.jpg")
+![Placeholder](/assets/images/courantdart/ngo-9-Dang-thai-mai.jpg)
 Ngo 9 Dang Thai Mai, Hanoi - 60 x 42 cm
 
 ![Placeholder](/assets/images/courantdart/manh-cuong.jpg)
 Manh Cuong - 44 x 65 cm
 
-![Placeholder]("/assets/images/courantdart/bai-giua-1.jpg")
+![Placeholder](/assets/images/courantdart/bai-giua-1.jpg)
 Bai Giua, L'Ile aux Bananes, Hanoi - 14 x 17 cm
 
-![Placeholder]("/assets/images/courantdart/chez-loan-et-toan.jpg")
+![Placeholder](/assets/images/courantdart/chez-loan-et-toan.jpg)
 Chez Loan et Toan - 79 x 42,5 cm
 
-![Placeholder]("/assets/images/courantdart/hanoi-fenetre-datelier.jpg")
+![Placeholder](/assets/images/courantdart/hanoi-fenetre-datelier.jpg)
 Hanoi, fenêtre d'Atelier - 19 x 24 cm
 
 ![Placeholder](/assets/images/courantdart/sous l'Arbre.jpg)
