@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Exposition"
+title: "Tableaux"
 date: 2020-12-24
 description: Dessins/Peintures
 image: /assets/images/courantdart/affich-expo-calais2020-detail.jpg
@@ -8,18 +8,26 @@ image: /assets/images/courantdart/affich-expo-calais2020-detail.jpg
 
 author: Lea Delescluse
 tags:
-  - Galerie
-  - Dessin
+  - Décor mural
 ---
 <a href="https://www.facebook.com/calais.courantdart.3">Galerie Courant d'Art</a> à Calais, France - Exposition octobre 2020.
 
-Technique mixte, peinture sur papier Zo (Vietnam), stylo noir, crayons aquarelles. 
+Technique mixte, peinture sur papier Zo (Vietnam), stylo noir, crayons aquarelles.
+
+Expositions:
+Galerie Courant d'Art, Calais, France
+Galerie Work Room Four, Hanoi et Ho Chi Ming Ville, Vietnam
+Galerie La Prédelle, Mersuay et Besançon, France
+Maison de la Grèce à Paris, France
 
 ![Placeholder](/assets/images/courantdart/CafeHanoi.jpg)
+Hanoi Café - 59,5 x 75 cm
 
 ![Placeholder](/assets/images/courantdart/Origine1.jpg)
+Série Les Mondes Parallèles : Origine 1 - 44,5 x 44,5 cm
 
 ![Placeholder](/assets/images/courantdart/Evasion.jpg)
+Evasion - 25 x 42 cm
 
 ![Placeholder]("/assets/images/courantdart/dragon (2).jpg")
 
