@@ -1,1 +1,51 @@
+---
+layout: post
+title: "Street Art"
+date: 2020-12-24
+description: Collages
+image: /assets/images/street/femme-bleue-2.jpg
+
+
+author: Lea Delescluse
+tags:
+  - Décor mural
+---Collages - Montpellier 
+...
+
+![Placeholder](/assets/images/street/singerie-en-marie.jpg)
+Singerie en marié - collage impression d'après l'original - acrylique
+
+![Placeholder](/assets/images/street/singeRueRoucherDétail.jpg)
+Singerie rue Roucher - collage, original - acrylique
+
+![Placeholder](/assets/images/street/singerie-lierre2-rue-st-anne.jpg)
+Singerie au lierre rue Ste-Anne : collage, original - acrylique
+
+![Placeholder](/assets/images/street/femme-bleue-rue-des-cygnes.jpg)
+![Placeholder](/assets/images/street/femme-bleue-2.jpg)
+Femme Bleue rue des Cygnes : collage, original - acrylique
+
+![Placeholder](/assets/images/street/huong-portrait.jpg)
+Huong portrait, Amie épicière à Hanoi, vit et travail dans le quartier de Tay Ho où j'ai résidé pendant 2 ans : collage, original - acrylique
+
+![Placeholder](/assets/images/street/huong-shop.jpg)
+Huong Epicerie : collage, original - acrylique
+
+![Placeholder](/assets/images/street/collage-rue.jpg)
+Place de la Méditerranée, Montpellier
+
+![Placeholder](/assets/images/street/ngo9-dang-thai-mai.jpg)
+Ngo 9 Dang Thai Mai, Hanoi - collage impression d'après l'original - technique mixte
+
+![Placeholder](/assets/images/street/huong-small.jpg)
+Huong - collage, original - stylo feutre 
+
+![Placeholder](/assets/images/street/collage.jpg)
+collage
+
+![Placeholder](/assets/images/street/collage2.jpg)
+collage
+
+![Placeholder](/assets/images/street/huong-detail.jpg)
+Détail 
 
