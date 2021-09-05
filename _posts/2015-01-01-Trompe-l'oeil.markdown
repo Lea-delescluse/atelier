@@ -9,7 +9,7 @@ tags:
   - Decor
   - Mural
 ---
-![Placeholder](/assets/images/imitation-bas-relief-moyen-age.jpg)
+![Placeholder](/assets/images/avant2015/imitation-bas-relief-moyen-age.jpg)
 Imitation bas-relief du Moyen Age
 
 ![Placeholder](/assets/images/avant2015/faux-bois.jpg)
@@ -19,7 +19,7 @@ Imitation bois - peinture à l'huile
 Imitation brique - peinture acrylique
 
 ![Placeholder](/assets/images/avant2015/faux-jaune-de-sienne.jpg)
-Imitation marbre jaune de Sienne
+Imitation marbre jaune de Sienne - peinture à l'huile
 
 ![Placeholder](/assets/images/avant2015/patine-nuage.jpg)
 Imitation ciel - peinture acrylique
@@ -33,7 +33,7 @@ Imitation panneaux rouillé avec initiales "gravées" - peinture acrylique
 ![Placeholder](/assets/images/avant2015/patine-rouille4.jpg)
 Patine fausse rouille - peinture acrylique
 
-![Placeholder](/assets/images/avant2015/patine-trompe-loeil.jpg)
+![Placeholder](/assets/images/avant2015/trompe-loeil.jpg)
 Trompe l'oeil étude - Imitations de matières - peinture acrylique
 
 ![Placeholder](/assets/images/avant2015/20141128_170623-1.jpg)
