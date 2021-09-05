@@ -11,6 +11,10 @@ tags:
   - Galerie
   - Dessin
 ---
+Blablablala
+
+
+
 <a href="https://www.facebook.com/calais.courantdart.3">Galerie Courant d'Art</a> à Calais, France - Exposition octobre 2020.
 
 Technique mixte, peinture sur papier Zo (Vietnam), stylo noir, crayons aquarelles. 
@@ -21,7 +25,7 @@ Technique mixte, peinture sur papier Zo (Vietnam), stylo noir, crayons aquarelle
 
 ![Placeholder](/assets/images/courantdart/Evasion.jpg)
 
-![Placeholder](/assets/images/courantdart/dragon\ (2).jpg)
+![Placeholder]("/assets/images/courantdart/dragon (2).jpg")
 
 
 
