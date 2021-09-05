@@ -21,7 +21,7 @@ Technique mixte, peinture sur papier Zo (Vietnam), stylo noir, crayons aquarelle
 
 ![Placeholder](/assets/images/courantdart/Evasion.jpg)
 
-![Placeholder](/assets/images/courantdart/dragon (2).jpg)
+![Placeholder](/assets/images/courantdart/dragon\ (2).jpg)
 
 
 
