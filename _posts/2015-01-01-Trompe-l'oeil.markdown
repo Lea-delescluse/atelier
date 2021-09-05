@@ -12,6 +12,9 @@ tags:
 ![Placeholder](/assets/images/avant2015/imitation-bas-relief-moyen-age.jpg)
 Imitation bas-relief du Moyen Age
 
+![Placeholder](/assets/images/avant2015/vegetaux.jpg)
+Imitation végétaux - peinture acrylique
+
 ![Placeholder](/assets/images/avant2015/faux-bois.jpg)
 Imitation bois - peinture à l'huile
 
