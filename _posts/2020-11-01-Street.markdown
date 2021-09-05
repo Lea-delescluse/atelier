@@ -1,15 +1,14 @@
 ---
 layout: post
 title: "Street Art"
-date: 2020-12-24
+date: 2020-11-01
 description: Collages
 image: /assets/images/street/femme-bleue-2.jpg
-
-
 author: Lea Delescluse
 tags:
   - Décor mural
----Collages - Montpellier 
+---
+Collages - Montpellier 
 ...
 
 ![Placeholder](/assets/images/street/singerie-en-marié.jpg)
