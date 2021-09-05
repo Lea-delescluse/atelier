@@ -2,7 +2,7 @@
 // Posts
 //---------------------------------------------- 
 .posts {
-  padding: 1em 1em 3em;
+  padding: 1em 1em 1em;
 
   @media (min-width: $mq-small) {
     padding: {
@@ -20,8 +20,8 @@
 
   @media (min-width: $mq-xlarge) {
     padding: {
-      top: 1em;
-      bottom: 1em;
+      top: 4em;
+      bottom: 4em;
     }
   }
 
@@ -54,7 +54,7 @@
   }
 
   &__post {
-    padding: 2em 1em;
+    padding: 1em 1em;
 
     // @media (min-width: $mq-small) {
     //   padding: {
@@ -77,7 +77,7 @@
   }
 
   &__img {
-    margin-bottom: 1em;
+    // margin-bottom: 1em;
 
     background-color: $color-lightgrey;
     transition: transform 400ms ease-in-out;
