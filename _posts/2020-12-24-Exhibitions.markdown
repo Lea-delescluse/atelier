@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Exhibitions"
+title: "Exposition"
 date: 2020-12-24
 description: Dessins/Peintures
-image: /assest/images/courant-dart
+image: /assets/images/courantdart/affich-expo-calais2020-detail.jpg
 
 
 author: Lea Delescluse
@@ -15,11 +15,13 @@ tags:
 
 Technique mixte, peinture sur papier Zo (Vietnam), stylo noir, crayons aquarelles. 
 
-![Placeholder](/assets/images/nantes/decor2.jpg)
+![Placeholder](/assets/images/courantdart/CafeHanoi.jpg)
 
-![Placeholder](/assets/images/nantes/decor1.jpg)
+![Placeholder](/assets/images/courantdart/Origine1.jpg)
 
-![Placeholder](/assets/images/nantes/decor3.jpg)
+![Placeholder](/assets/images/courantdart/Evasion.jpg)
+
+![Placeholder](/assets/images/courantdart/dragon (2).jpg)
 
 
 
