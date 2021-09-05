@@ -54,7 +54,7 @@
   }
 
   &__post {
-    padding: 1em 1em;
+    padding: 0em 0em;
 
     // @media (min-width: $mq-small) {
     //   padding: {
@@ -77,7 +77,7 @@
   }
 
   &__img {
-    // margin-bottom: 1em;
+    margin-bottom: 0em;
 
     background-color: $color-lightgrey;
     transition: transform 400ms ease-in-out;
