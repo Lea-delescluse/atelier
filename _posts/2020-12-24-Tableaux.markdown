@@ -15,10 +15,12 @@ tags:
 Technique mixte, peinture sur papier Zo (Vietnam), stylo noir, crayons aquarelles.
 
 Expositions:
-Galerie Courant d'Art, Calais, France
-Galerie Work Room Four, Hanoi et Ho Chi Ming Ville, Vietnam
-Galerie La Prédelle, Mersuay et Besançon, France
-Maison de la Grèce à Paris, France
+Galerie Courant d'Art - Calais, France
+Galerie Work Room Four - Hanoi et Ho Chi Ming Ville, Vietnam
+Galerie Campioni - Hanoi, Vietnam
+Galerie La Prédelle - Mersuay et Besançon, France
+Maison de la Grèce - Paris, France
+...
 
 ![Placeholder](/assets/images/courantdart/singerie-en-marie.jpg)
 Singerie en marié - 33 x 39,5 cm
