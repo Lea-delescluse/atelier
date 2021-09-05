@@ -27,8 +27,8 @@
 
   &__container {
     margin: {
-      right: -1em;
-      left: -1em;
+      right: -5em;
+      left: -5em;
     }
 
     &[data-columns]:before {
@@ -54,7 +54,7 @@
   }
 
   &__post {
-    padding: 0.1em 0.1em;
+    padding: 1em 1em;
 
     // @media (min-width: $mq-small) {
     //   padding: {
