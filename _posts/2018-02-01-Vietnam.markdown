@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hanoi Vietnam"
+title: "Vietnam"
 date: 2019-08-01
 description: Dessins/Peintures/Voyages
 image: /assets/images/vietnam/dessin3.jpg
