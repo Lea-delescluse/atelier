@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Décor mural"
+title: "Mural"
 date: 2018-01-01
-description: peinture murale
+description: Décor
 image: /assets/images/vietnam/mur0.jpg
 author: Lea Delescluse
 tags:
