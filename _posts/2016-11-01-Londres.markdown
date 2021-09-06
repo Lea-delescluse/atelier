@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Chantier Londres"
+title: "Atelier Lepage"
 date: 2016-11-01
-description: Chantier Atelier Lepage
+description: Chantier à Londres, Belgravia
 image: /assets/images/londres1.jpg
 author: Lea Delescluse
 tags:
