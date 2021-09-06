@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Décors"
+title: "Brasserie La Peau de Vache"
 date: 2018-02-01
-description: Décor brasserie "La Peau de Vache"
+description: Décors
 image: /assets/images/orvault/peau-de-vache1.jpg
 author: Lea Delescluse
 tags:
