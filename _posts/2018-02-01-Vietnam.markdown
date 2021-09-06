@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "En Galerie"
+title: "Hanoi Vietnam"
 date: 2019-08-01
-description: Dessins/Peintures
+description: Dessins/Peintures/Voyages
 image: /assets/images/vietnam/dessin3.jpg
 author: Lea Delescluse
 tags:
