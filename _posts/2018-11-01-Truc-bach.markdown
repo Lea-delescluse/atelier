@@ -2,7 +2,7 @@
 layout: post
 title: Patine
 date: 2018-11-01
-description: Patine
+description: Café Ma Xo, Hanoi
 image: /assets/images/maxo/maxo2.jpg
 author: Lea Delescluse
 tags:
