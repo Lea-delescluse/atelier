@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Décor mural"
+title: "Mural"
 date: 2019-05-01
-description: Décor mural
+description: Décors
 image: /assets/images/hanoi-Lsplace/lsplace0.jpg
 author: Lea Delescluse
 tags:
