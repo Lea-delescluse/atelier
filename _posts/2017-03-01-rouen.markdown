@@ -2,7 +2,7 @@
 layout: post
 title: "Singeries"
 date: 2017-05-01
-description: singeries
+description: Décor
 image: /assets/images/singeries/singeries1.jpg
 author: Lea Delescluse
 tags:
