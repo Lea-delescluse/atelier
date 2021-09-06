@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Faux ciel d'orage"
+title: "Restaurant Les Aviateurs"
 date: 2018-01-01
-description: Decor
+description: Décor
 image: /assets/images/rennes/ciel3.jpg
 author: Lea Delescluse
 tags:
